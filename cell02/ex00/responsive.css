@@ -1,0 +1,8 @@
+div {
+  display: flex;
+  flex-grow: 1;
+}
+
+.small {
+  width: 50%;
+}
